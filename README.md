@@ -1,2 +1,2 @@
-# simplephp
+# simplephp.mine
 text
